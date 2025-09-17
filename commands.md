@@ -16,3 +16,5 @@
 - `git push origin <branch>` - same as git push, but you have to do this command the first time you push a local branch to a remote repository (reason is confusing I can explain if you really want)
 - `git branch -d <branch>` - deletes a branch
 - `git branch` - lists all branches
+## More help
+- See the [Git Cheat Sheet](https://git-scm.com/cheat-sheet) from the [git docs](https://git-scm.com/doc)
