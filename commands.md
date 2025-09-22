@@ -17,6 +17,6 @@
 - `git branch -d <branch>` - deletes a branch
 - `git branch` - lists all branches
 ## More help
-- See the [Git Cheat Sheet](https://git-scm.com/cheat-sheet) from the [git docs](https://git-scm.com/doc)
+- See the [Git Cheat Sheet](https://git-scm.com/cheat-sheet) from (hi) the [git docs](https://git-scm.com/doc)
 
-Hello! this is a change
+I really need help
