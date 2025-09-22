@@ -18,5 +18,3 @@
 - `git branch` - lists all branches
 ## More help
 - See the [Git Cheat Sheet](https://git-scm.com/cheat-sheet) from the [git docs](https://git-scm.com/doc)
-
-Hello! this is a change
